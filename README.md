@@ -1,1 +1,9 @@
 # CS320
+Q: How can I ensure that my code, program, or software is functional and secure?
+A: Several methods exist to include several levels of testing, dependency reports, and reviews of your code. In this project the focus was on best coding practices and unit testing. The unit testing was used to ensure that the code did what was expected when recieving specific inputs to include valid and invalid inputs while best coding practices helped mitigate confusion in the code and possible errors.
+
+Q: How do I interpret user needs and incorporate them into a program?
+A: Interpreting user needs can be hard depending on the users technical knowledge level as well as your own experience whith the users industry/system. One method is to try and translate it over and repeat it back to them. Another more effective method in my experience is to ask for or use existing products for comparison. Finally, you can ask leading questions that stear the customer towards letting you know what needs you can feel within the scope of what is possible with the systems you are working with and giving them some sort of prototypes to confirm or change what they want.
+
+Q: How do I approach designing software?
+A: I like to approach a design by breaking it up into managable sections and functions and then seeing how to best tackle each challenge. After an initial go at coding a larger group of functions I might see if there is repeated tasks that can be rewritten in a way that covers all repeated sections in its own function to limit issues with multiples of the same code accross a program. I also test inputs as I am creating functions rather than just at the end since I hate getting far into a project just for some small thing to not work at all and now I have tons of code to go through to find the error.
